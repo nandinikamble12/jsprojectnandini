@@ -6,7 +6,7 @@ awsome hover effect on days,week and month.<br>
 it will also show current date of today on top of calender. </p>
 <br>
 <div align="center">
-<a href="https://riticalendar.netlify.app" >
+<a href="https://bespoke-mochi-f31e13.netlify.app" >
     <img src="https://img.shields.io/badge/Click Here To visit-white?style=for-the-badge&logo=netlify&logoColor=blue" alt="Netlify Badge"/>
   </a> 
 </div>
